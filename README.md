@@ -1,4 +1,16 @@
-## Setting up the project
+# Workflow Course Assignment
+
+### Built with:
+
+* Prettier
+* ESLint
+* Lint-staged
+* Jest
+* Cypress
+* Husky
+* Babel
+
+## Project setup
 
 1. Clone the workflow branch:
 
