@@ -1,4 +1,3 @@
-
 ## Setting up the project
 
 1. Clone the repository:
