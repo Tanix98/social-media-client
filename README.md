@@ -1,30 +1,18 @@
 ## Setting up the project
 
-1. Clone the repository:
+1. Clone the workflow branch:
 
 ```bash
-https://github.com/Tanix98/social-media-client
+git clone -b workflow --single-branch https://github.com/Tanix98/social-media-client
 ```
 
-2. Switch branch:
-
-```bash
-git checkout -b workflow
-```
-
-3. Pull remote content to local:
-
-```bash
-git pull origin workflow
-```
-
-4. Install dependencies
+2. Install dependencies
 
 ```bash
 npm install
 ```
 
-5. Build project
+3. Build project
 
 ```bash
 npm run build
