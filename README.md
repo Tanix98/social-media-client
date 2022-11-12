@@ -6,13 +6,25 @@
 https://github.com/Tanix98/social-media-client
 ```
 
-2. Install dependencies
+2. Switch branch:
+
+```bash
+git checkout -b workflow
+```
+
+3. Pull remote content to local:
+
+```bash
+git pull origin workflow
+```
+
+4. Install dependencies
 
 ```bash
 npm install
 ```
 
-3. Build project
+5. Build project
 
 ```bash
 npm run build
