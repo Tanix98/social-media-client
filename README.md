@@ -2,13 +2,13 @@
 
 ### Built with:
 
-* Prettier
-* ESLint
-* Lint-staged
-* Jest
-* Cypress
-* Husky
-* Babel
+- Prettier
+- ESLint
+- Lint-staged
+- Jest
+- Cypress
+- Husky
+- Babel
 
 ## Project setup
 
